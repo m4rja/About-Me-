@@ -1,0 +1,50 @@
+
+  <head>
+    
+  </head>
+  <body>
+    <h1>More About Me</h1>
+    <p>I come from the Philippines and I've been living in Washington for around 18 years now! I come south from Seattle and was raised around the Lakewood/Tacoma area and I came up to Seattle to challenge myself into living on my own.  </p>
+    
+  <h2>Hobbies</h2>
+    <p>Outside of classes, I love to draw, bake, play games, and go to concerts! I've seen plenty of artists and I definitely plan on seeing more! I've seen artists like Lady Gaga, Tyler, the Creator, Kali Uchis, ENHYPEN, ATEEZ, and my most recent was TWICE!  </p>
+
+  <p>These are my <strong>favorite</strong> K-Pop Groups:
+   <ul>
+    <li>BTS</li>
+    <li>TWICE</li>
+    <li>ENHYPEN</li>
+    <li>ATEEZ</li>
+    <li>LE SSERAFIM</li>
+   </ul>
+  </p> 
+ 
+
+<h2>Music</h2>
+  <p>Some of my favorite songs on repeat at the moment include:
+    <table>
+      <tr>
+        <th>Song</th>
+        <th>Artist</th>
+      </tr>
+      <tr>
+        <td>TALK (Nayeon, Jihyo)</td>
+        <td>TWICE</td>
+      </tr>
+      <tr>
+        <td>homesick </td>
+        <td>wave to earth</td>
+      </tr>
+      <tr>
+        <td>Sleep Tight</td>
+        <td>ENHYPEN</td>
+      </tr>
+      <tr>
+        <td>Scott and Zelda</td>
+        <td>BIBI</td>
+      </tr>
+    </table>
+    
+  </body>
+</html>
+  
