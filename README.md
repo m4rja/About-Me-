@@ -28,6 +28,4 @@ Some of my favorite classes in UW include:
 
 ## Words of Wisdom 
 
-My favorite words of encouragement and reminder is: 
-
-> "Did I teach you to dream small?" -Kim Hongjoong 
+I don't exactly have a favorite quote or lyric that encoruages me, but just thinking of what my parents did to sacrifice coming here to give me a better life just motivates me to continue on. :) 
